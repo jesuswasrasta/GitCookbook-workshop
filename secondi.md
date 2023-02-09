@@ -1,5 +1,5 @@
 # Secondi
-Pasta fumè
+
 ## Secondi di terra
 - ...
 
