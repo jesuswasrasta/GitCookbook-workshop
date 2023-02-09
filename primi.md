@@ -1,8 +1,8 @@
 # Primi
 Pasta fumè
 ## Primi di terra
-[Pizzoccheri](/primi/pizzoccheri.md)
-
+- [spaghetti-alla-amatriciana]
+- [pizzoccheri]
 ## Primi di mare
 - ...
 
